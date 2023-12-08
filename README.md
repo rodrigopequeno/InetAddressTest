@@ -8,5 +8,3 @@ mvn compiler
 ## Execução 
 
 java -cp target/classes/ br.ufs.dcomp.InetAddressTest.App
-
-Test commit
